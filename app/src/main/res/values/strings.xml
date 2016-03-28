@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quien Soy</string>
+    <string name="action_settings">Settings</string>
+    <string name="nombre">Escribe tu nombre:</string>
+    <string name="dpto">Escribe tu Dpto.:</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="title_activity_saludo">Saludo</string>
+</resources>
